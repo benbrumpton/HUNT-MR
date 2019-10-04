@@ -10,5 +10,5 @@ Welcome to the HUNT-MR lab!
 
 # Important docs   
 
-QC and Imputation - see doc folder `./docs/Methods_HUNT_LF`  
+`./docs/Methods_HUNT_LF`  - Quality control and imputation  
 
