@@ -7,10 +7,16 @@ Welcome to the HUNT-MR lab!
 `/mnt/work/phenotypes` - phenotypes   
 `/mnt/scratch` - space for temporary working files    
 `/mnt/cargo` - a directory to mount from your local drive for transfering files
+`/mnt/archive` - space for files that you would like backed-up
 
 ## Important docs   
 `./docs/Methods_HUNT_LF`  - Quality control and imputation  
 
 # Warning!
 Do not transfer individual-level off the HUNT-MR lab    
-Summary-level data can be tranfered as per your ethics application and HUNT approval    
+Summary-level data can be tranfered as per your ethics application and HUNT approval   
+
+## Backup
+Currently there is no backup of anything on this lab    
+Please keep a copy of your scripts elswhere    
+Backup will be added to `/mnt/archive` as needed, please let me know ben.brumpton@ntnu.no or on slack
