@@ -6,7 +6,7 @@ Welcome to the HUNT-MR lab!
 `/mnt/work/genotypes` - genotypes    
 `/mnt/work/phenotypes` - phenotypes   
 `/mnt/scratch` - space for temporary working files    
-`/mnt/cargo` - a directory to mount from your local drive for transfering files
+`/mnt/cargo` - a directory to mount from your local drive for transfering files    
 `/mnt/archive` - space for files that you would like backed-up
 
 ## Important docs   
@@ -20,3 +20,6 @@ Summary-level data can be tranfered as per your ethics application and HUNT appr
 Currently there is no backup of anything on this lab    
 Please keep a copy of your scripts elswhere    
 Backup will be added to `/mnt/archive` as needed, please let me know ben.brumpton@ntnu.no or on slack
+
+## Install another version of R    
+If you would like to install another version of R than the current default, there are some example scripts to complie R from source here `.scripts_to_install_R`. Please install new versions in `/mnt/work/software/R/` so that everyone can use them if you don't mind. Otherwise keep them in your `home`.
