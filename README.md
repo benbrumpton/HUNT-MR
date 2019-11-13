@@ -13,7 +13,7 @@ Welcome to the HUNT-MR lab!
 `./docs/Methods_HUNT_LF`  - Quality control and imputation  
 
 # Warning!
-Do not transfer individual-level off the HUNT-MR lab    
+Do not transfer individual-level data off the HUNT-MR lab    
 Summary-level data can be tranfered as per your ethics application and HUNT approval   
 
 ## Backup
