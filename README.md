@@ -1,7 +1,7 @@
 # HUNT-MR   
 Welcome to the HUNT-MR lab!   
 
-## Overview   
+## Lab overview   
 `/mnt/yourusername/home` - space for your private files   
 `/mnt/work/genotypes` - genotypes    
 `/mnt/work/phenotypes` - phenotypes   
